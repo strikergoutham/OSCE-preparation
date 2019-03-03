@@ -1,0 +1,6 @@
+s_readline();
+s_string("HTER");
+s_string(" ");
+s_string_variable("PAWN");
+s_string("\r\n");
+sleep(5);
