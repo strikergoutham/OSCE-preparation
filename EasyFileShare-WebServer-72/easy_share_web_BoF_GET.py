@@ -1,5 +1,5 @@
 '''exploit : Easy File Sharing Web Server 7.2 GET buffer overflow
-Exploit Creation creds : Goutham ( @barriersec.com)
+Exploit Creation creds : Goutham Madhwaraj( @barriersec.com)
 tested on : windows xp sp3 (x86)
 '''
 import socket
